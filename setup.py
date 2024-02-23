@@ -14,8 +14,6 @@ setup(
         'multimethod',
         'numpy',
         'pyyaml',
-        'torch>=1.5.0',
-        'torchvision',
         'tqdm',
     ],
     python_requires='>=3.6',
